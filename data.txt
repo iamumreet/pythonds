@@ -1,0 +1,3 @@
+We are learning numpy
+it is very useful
+numpy is fast
